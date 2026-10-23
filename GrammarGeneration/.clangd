@@ -1,0 +1,4 @@
+CompileFlags:
+  BuiltinHeaders: Clangd
+  Add:
+    - -I/opt/homebrew/Cellar/raylib/6.0/include
